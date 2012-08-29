@@ -7,7 +7,7 @@
  */
 
 var assert = require("assert");
-var sftp = require("./../index");
+var sftp = require("./../lib/ssh");
 var fs = require("fs");
 var path = require("path");
 
